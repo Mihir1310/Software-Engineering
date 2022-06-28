@@ -1,0 +1,1 @@
+Design Class Diagram & CRC index cards for our System.
